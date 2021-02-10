@@ -248,7 +248,7 @@ header nav h2 {
       font-size: 15px;
   }
   .file-upload {
-    width: 80%;
+    width: 95%;
   }
   .drag-text {
     left: 3%;
@@ -260,12 +260,12 @@ header nav h2 {
     font-size: 15px;
   }
   .file-upload-image {
-    height: 130px;
-    width: 130px;
+    height: 200px;
+    width: 160px;
   }
   .star-image {
-    height: 130px;
-    width: 130px;
+    height: 200px;
+    width: 160px;
   }
   .result-message span {
     font-size: 15px;
