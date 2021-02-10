@@ -228,9 +228,11 @@ header nav h2 {
     margin: auto;
   }
   .ad_footer2{
-    padding: auto;
+    width: 250px;
+    margin: auto;
   }
   .ad_footer3{
+    width: 300px;
     margin: auto;
   }
   .ad_header {
