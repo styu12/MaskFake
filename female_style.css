@@ -222,6 +222,15 @@ body {
       color: rgba(240, 227, 50, 0.8);
     }
 
+    .ad_footer1 {
+      width: 320px;
+      margin: auto;
+    }
+    .ad_footer2 {
+      width: 250px;
+      margin: auto;
+    }
+
     @media screen and (max-width: 760px) {
       header nav img {
         width: 12%;
