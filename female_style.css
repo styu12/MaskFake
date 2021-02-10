@@ -96,9 +96,9 @@ body {
     }
     
     .drag-text {
-      position: fixed;
-      top: 50%;
-      left: 34%;
+      position: absolute;
+      top: 10vh;
+      left: 8vw;
       text-align: center;
       cursor: pointer;
     }
@@ -226,7 +226,7 @@ body {
       width: 320px;
       margin: auto;
     }
-    .ad_footer2 {
+    .ad_footer2 img{
       margin: auto;
     }
 
