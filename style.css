@@ -26,6 +26,7 @@ header nav h2 {
 
 .top {
     text-align: center;
+    margin-top: 5vh;
 }
 .top h2 {
     margin-top: 3vh;
@@ -236,7 +237,7 @@ header nav h2 {
 
   @media screen and (max-width: 760px) {
     header {
-      height: 25vh;
+      height: 20vh;
     }
     header nav img {
       width: 12%;
