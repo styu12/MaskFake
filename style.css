@@ -262,6 +262,7 @@ header nav h2 {
   }
   .file-upload {
     width: 95%;
+    margin: 5vh 3% 5vh 1%;
   }
   .drag-text {
     left: 3%;
