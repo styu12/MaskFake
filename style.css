@@ -96,9 +96,9 @@ header nav h2 {
   }
   
   .drag-text {
-    position: fixed;
-    top: 50%;
-    left: 34%;
+    position: absolute;
+    top: 10vh;
+    left: 8vw;
     text-align: center;
     cursor: pointer;
   }
@@ -224,6 +224,9 @@ header nav h2 {
 
   .ad_footer1 {
     width: 320px;
+    margin: auto;
+  }
+  .ad_footer2 {
     margin: auto;
   }
 
