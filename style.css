@@ -226,10 +226,6 @@ header nav h2 {
     width: 320px;
     margin: auto;
   }
-  .ad_footer2 {
-    width: 250px;
-    margin: auto;
-  }
 
   @media screen and (max-width: 760px) {
     header nav img {
