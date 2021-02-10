@@ -261,8 +261,7 @@ body {
         font-size: 15px;
     }
     .file-upload {
-      width: 95%;
-      margin: 5vh 6% 5vh 0%;
+      width: 90%;
     }
     .drag-text {
       left: 3%;
@@ -275,11 +274,11 @@ body {
     }
     .file-upload-image {
       height: 200px;
-      width: 160px;
+      width: 150px;
     }
     .star-image {
       height: 200px;
-      width: 160px;
+      width: 150px;
     }
     .result-message span {
       font-size: 15px;
