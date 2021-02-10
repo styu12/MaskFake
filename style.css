@@ -235,6 +235,9 @@ header nav h2 {
   }
 
   @media screen and (max-width: 760px) {
+    header {
+      height: 25vh;
+    }
     header nav img {
       width: 12%;
       height: 7vh;
