@@ -229,6 +229,10 @@ header nav h2 {
   .ad_footer2{
     padding: auto;
   }
+  .ad_header {
+    width: 100%;
+    height: 50px;
+  }
 
   @media screen and (max-width: 760px) {
     header nav img {
